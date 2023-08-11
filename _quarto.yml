@@ -9,7 +9,7 @@ website:
   sidebar: 
     style: "floating"
     contents: 
-      - section: "Lab Overview"
+      - section: "Team Overview"
         contents:
           - values.qmd
           - guidelines.qmd
@@ -19,6 +19,8 @@ website:
           - cyber.qmd
           - field_equipment.qmd
           - lab_equipment.qmd
+      - semester_admin_jobs.qmd
+      
 
 format:
   html:

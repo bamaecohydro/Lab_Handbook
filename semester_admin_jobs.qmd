@@ -1,0 +1,49 @@
+---
+title: "Semester Administrative Assignments"
+---
+
+Each semester, team members will be assigned a "lab admin" role. In most cases, these tasks will take 1-3 hours per week; and the goal is to promote an equitable distribution of work accross the lab. Below are the roles assigned Fall 2023:
+
+### Meeting Facilitator (Ashleigh Kirker)
+
+-   Develop and coordinate agenda for weekly meetings
+
+-   Send reminder to group about weekly meeting
+
+-   Assign notetaker and timekeeper at the begging of meetings
+
+-   Facilitate meeting discussions
+
+### Picarro Whisperer (Delaney Peterson)
+
+-   Facilitate picarro runs (sample prep, analysis, routine checks, and QAQC)
+
+-   Organize and catalog water isotope samples
+
+-   Supervise undergraduate workers
+
+### Lab Manual Curator (Alisha Guglielmi)
+
+-   Work with team members to update lab manual
+
+### Web Master (Shelbie Kellum)
+
+-   Update team members on web page
+
+-   Write twice-monthly blog posts (with input from team)
+
+### Lab Equipment Coordinator (Lidia Molina Serpas)
+
+-   Act as point person for shared lab equipment
+
+-   Conduct weekly inspections of Bevill Lab space
+
+-   Work with lab members to keep lab space clean
+
+### Field Equipment Coordinator (KC Zarek)
+
+-   Act as point person for shared field equipment
+
+-   Coordinate shared field equipment use
+
+-   Work with lab members to maintain field equipment (i.e., make sure it in working order, stored properly, etc)
