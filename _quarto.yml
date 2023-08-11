@@ -2,13 +2,18 @@ project:
   type: website
 
 website:
-  title: "Lab Handbook"
+  title: "Ecohydrology Lab Handbook"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    search: true
+  sidebar: 
+    style: floating
+    contents: 
+      - index.qmd
+      -section: "Lab Overview"
+       contents:
+          - values.qmd
+          - guidelines.qmd
+           
 format:
   html:
     theme: cosmo
