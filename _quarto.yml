@@ -6,11 +6,10 @@ website:
   navbar:
     search: true
   sidebar: 
-    style: floating
+    style: "floating"
     contents: 
-      - index.qmd
-      -section: "Lab Overview"
-       contents:
+      - section: "Lab Overview"
+        contents:
           - values.qmd
           - guidelines.qmd
            
