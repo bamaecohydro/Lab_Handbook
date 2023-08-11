@@ -13,7 +13,13 @@ website:
         contents:
           - values.qmd
           - guidelines.qmd
-           
+          - team_contacts.qmd
+      - section: "Shared Resources"
+        contents:
+          - cyber.qmd
+          - field_equipment.qmd
+          - lab_equipment.qmd
+
 format:
   html:
     theme: cosmo

@@ -1,0 +1,20 @@
+---
+title: "Team Roster"
+---
+
+Team contact information compiled at the beginning of Fall 2023.
+
+| Name                | Position      | email                          |
+|---------------------|---------------|--------------------------------|
+| Nate Jones          | PI            | cnjones7\@ua.edu               |
+| Ashleigh Kirker     | Postdoc       | akirker\@ua.edu                |
+| Adam Siders         | Postdoc       | asiders\@ua.edu                |
+| Delaney Peterson    | PhD Candidate | dmpeterson2\@crimson.ua.edu    |
+| Alisha Guglielmi    | PhD Student   | aguglielmi\@crimson.ua.edu     |
+| Shelbie Kellum      | PhD Student   | slkellum\@crimson.ua.edu       |
+| Lidia Molina Serpas | PhD Student   | ldmolinaserpas\@crimson.ua.edu |
+| Zachary Foley       | MS Student    | zwfoley\@crimson.ua.edu        |
+| Jasmine Morejon     | MS Student    | jmorejon\@crimson.ua.edu       |
+| Kaci Zarek          | MS Student    | kzarek\@crimson.ua.edu         |
+| Anna Gruchala       | BS Student    | amgruchala\@crimson.ua.edu     |
+| Elaine Rice         | BS Student    | serice\@crimson.ua.edu         |
