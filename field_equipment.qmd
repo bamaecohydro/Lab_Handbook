@@ -2,5 +2,71 @@
 title: "Shared Field Equipment"
 ---
 
--  truck
--  field laptop
+**1.0 Our shared lab equipment includes**:
+
+1.  lab truck
+
+2.  Jones laptop (potentially getting a new one) \-- HOBO software, exo software, weather station software, etc.
+
+3.  multi-parameter YSI
+
+4.  well tape
+
+5.  geopump pump
+
+6.  50ft to 50m meter tapes (in the soft tapes drawer) 
+
+7.  orange hard hats and orange vests (ppe)
+
+8.  hobo shuttle
+
+9.  clipboards (field notes/data sheets)\
+
+​\*\*Everyone should have their own boots, but if they do not they could check out waders in the back of the lab or buy some (idk what you want to do here or if this is worth mentioning).
+
+**2.0 Checking out the lab truck**
+
+-   There will be a calendar (I'll get some next week) strictly for the lab truck.
+
+    -   Please Initial and write project/site abbreviation (i.e., AIMS, TW, TAL, DOE, etc.)
+
+-   There are many projects in this lab and so there may be conflicts for the lab truck. 
+     
+
+    -   This can involve checking out the **CFS van** or a fleet service vehicle (see section \[something\] for how to) if your labmate needs the truck to drive on more unstable terrains, muddy conditions or farther distances to their field site.
+
+-   If you get rained out or are unable to make it to your field site for whatever reason and need to go to the field the next day when someone already checked out the vehicle, please notify them ASAP and determine whether it is worth checking out the CFS van/fleet service vehicle, rescheduling your fieldwork for another day that week, or if they don't need the field truck that day and you can take it.
+    Communication is key and so is flexibility!
+
+**3.0 Checking out the laptop and/or ysi!!**
+
+-   Like lab truck checkout, there will be a calendar strictly for the laptop/ysi.
+
+    -   Please Initial and write project/site abbreviation (i.e., AIMS, TW, TAL, DOE, etc.)
+
+-   Like the lab truck, if you run into conflict of another person needing the laptop the same day, please communicate and determine a path forward for resolving who uses laptop where/when.
+    (please help me reword here\...)
+
+**4.0 Post field work**
+
+-   Fill the truck gas tank up
+
+    -   Some field days are [long]{.underline} and [tiresome]{.underline}, and it's easy to want to go home rather than get gas, so if this happens please be courteous of your fellow lab mates and (1) inform the next person checking out the lab truck and/or even better and much appreciated (2) fill up the gas in the morning following the field day if no one is using the field truck next.
+
+-   Clean out wrappers, plastic cups, and any field trash accumulated throughout the day in the truck
+
+    -   While we aren't fleet vehicle services and no one is yelling at you to the clean the vehicle you checked out or else, it is extremely appreciated to have a 'clean' lab truck for the next person.
+
+-   Place all field equipment \-- well tape, pump, and YSI \-- on the counter space denoted as 'Field Space'.
+
+    -   Check to see if YSI needs charged and if so, please charge it for the next user
+
+-   Return the laptop to its designated spot by the desktops and PLUG IT IN.
+
+-   Return field ppe (hard hats, vests) to their rightful spots 
+
+**5.0 What to do if something breaks, a field piece gets lost in the field, you name it??**
+
+-   Contact Kaci via email or phone!
+
+-   Lost a piece of equipment, email her the order information so she can let Nate know.
