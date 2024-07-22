@@ -1,0 +1,435 @@
+---
+title: "Resources for New Grad Students"
+---
+
+Content, links, deadlines, etc. all subject to change and should be updated regularly 🙂
+
+Last Updated 2/16/2024
+
+## Prior to the start of the semester
+
+-   Once you receive your CWID, [create your myBama account](https://oit.ua.edu/services/help-and-user-services/password-recovery/)
+
+-   Download and set up Duo app (Multi-Factor Authentication) ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeLgJks_ZUCRH2QVBXrZZ-0Lml1U-e5ksoLqaxVUrWGT4tC0X7jvp4wZZrqvuQd9nSrMjsX3WL77ULirj57z_3MG3HRM8h-xvaSAcl9DrgPePejjPdsaajhdVSCjesHLMrdkxQN_yXx0TN43tf8QhLE3UcO4zXldwcH95HiTYK1y8H-zBGFs6A?key=_uv_oJF3_CNKdoEMEvtvHg){width="50"}
+
+-   Download and sign up for Slack (Our lab group’s main mode of communication) ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdMwIeaby3jrcTpQj8kvhY6REzLV92y_bP3NokwfRdLH69a-VtyLL0trL_kiQmv6_N4LZv1BVphaR4PrvPdMWb1oK39lrtcR8TG00do0zTfO55Z7KE0oU41Bb_cvep8hO7cif3TblHrCu6TI4hHAGVN0N9cL1M4IpJu-YfZcZ4uBnx3hCuQ2mc?key=_uv_oJF3_CNKdoEMEvtvHg){width="50"}
+
+<!-- -->
+
+-   Download Outlook and setup your \@crimson.ua.edu email ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXe3S2MzO2ss3puzPQ6fJdwT7PRtnxvQInNehYMTcqeK6nJoSF-eP_dFCz0gxHTmwUqz1kcnPODDFY-TKT5GVylqGIqTohyUyEaxgUu4R1d9ztEy9D1Igb82RXME8RjpB-80pVyIFh_AND7b8vGGyMRrhKS8UkdbdJQRLjOUWcYH4P1FZA8D9Hc?key=_uv_oJF3_CNKdoEMEvtvHg){width="50"}
+
+<!-- -->
+
+-   Check to see if your email account has been set up yet to prevent missing important correspondences  
+
+<!-- -->
+
+-   Complete I-9 employment form before the semester begins
+
+<!-- -->
+
+-   **Bring proper required identification to HR department ASAP *(\*\*Failure to do so may result in your check being withheld and/or a payment reduction\*\*)***
+
+<!-- -->
+
+-   Register for classes in [myBama](https://mybama.ua.edu/) \> “Schedule Builder”  
+
+<!-- -->
+
+-   Download and setup “eAccounts” app  ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeobGxTR9PRiSDJrkXlZoTwfYE23G4MWdNKckYf-2D82a1nGBblKYDy3ZuoLy27Hkg10EySmpQWqQKhFPsrltcc7hHqxixfOwAHXlo4_O75u0JXDXD3R51FwhS-OjE7ydM-DQy3shXZt9TPu7T3DgetU6sn0CiXva81HeiA7OP2UTIjsphq2ZI?key=_uv_oJF3_CNKdoEMEvtvHg)
+
+<!-- -->
+
+-   Set up [ACT card](https://actcard.ua.edu/) (mobile card: official Student ID)
+
+    -   used for Bama Cash, Dining Dollars, meal plans, building access, NCAA athletic events, University Recreation Centers, the Student Health Center, campus entertainment events, and more! 
+    -   To setup:
+        -   **Step 1**: Must have eAccounts app setup already 
+        -   **Step 2: [Submit your photo](https://actcard.ua.edu/photosubmit/)**
+        -   **Step 3: [Add card to mobile device](https://actcard.ua.edu/mobileactioncard/)**
+
+-   Set up direct deposit in myBama Employee page 
+
+    -   [myBama \> Employee](https://mybama.ua.edu/page/41)
+
+        -   Click “[Employee Dashboard](https://bannerssb.ua.edu/EmployeeSelfService/ssb/hrDashboard#/hrDashboard)” button
+
+        -   “Direct Deposit Information” 
+
+<!-- -->
+
+-   Purchase a [parking permit](https://bamaparking.ua.edu/permits/) before the semester begins. 
+
+    -   Most people in our department purchase the “Northeast Commuter” pass (\~\$350) and the walk to Bevill (our building) is \~15-20 minutes. 
+
+    -   An email about this will be sent before the semester starts. 
+
+::: callout-note
+### Student Parking Permit Registration Instructions
+
+\*\*Students who registered for fall classes prior to July 19th must wait until their registration window opens to purchase a permit. 
+Students will be notified of their permit registration date and time through their Crimson email.
+
+\*\*All students who register for fall classes on or after July 19th will not receive an email notification. 
+These students will only be required to wait 24 hours after registering for their fall classes to purchase their permit.
+
+-   Log in to your myBama account.
+
+-   In the Student tab under the “Campus Services” section click the link “Register for a Parking Permit”.
+
+-   Once directed to the new site click on the link “Get Permit”.
+
+-   Select a permit.
+    The choices available depend on your residential status if you are living on campus, or what is currently available at the time of registration if you are a commuter student.
+
+-   Choose or add a valid license plate with no dashes or spaces.
+    If there is a letter ‘O’ in your license plate information be sure to enter it as a number ‘0’.
+
+-   Choose or add an address.
+    This is the address to which your permit will be mailed.
+    Students who have already moved to Tuscaloosa may elect to have their permits mailed to the Transportation Services Office by entering Box 870179, Tuscaloosa, AL 35487. 
+    Students will be notified by Crimson email once their permit has arrived in our office. 
+    Photo identification is required when picking up a permit.
+
+-   Click, “Pay Now”.
+    The permit cost will be billed to your student account.
+
+-   If you are already on campus, print and display the 10-day temporary permit until your permanent permit arrives.
+
+-   If you have any issues with permit registration, contact us at 205-348-547
+:::
+
+## First Semester Required Courses 
+
+-   **BSC 601: Seminar**
+
+    -   **You will have to take this every semester**
+
+    -   **Fridays at 3pm-4pm**
+
+-   **BSC 505: Intro to Grad Studies**
+
+    -   **unless you already have your Master’s degree**
+
+## ASAP once the semester begins
+
+-   [Sign the student handbook waiver](https://bsc.ua.edu/wp-content/uploads/2019/07/Handbook-Waiver.pdf)
+
+    -   Email Debbie ([deads\@ua.edu](mailto:deads@ua.edu)) or Josh ([mccra016\@ua.edu](mailto:mccra016@ua.edu)) or return it to the Biology Department front office of 1325 SEC 
+
+<!-- -->
+
+-   Obtain keys for office, lab, etc
+
+<!-- -->
+
+-   You will need to set up your ACT card for this
+
+<!-- -->
+
+-   Dave Scheurer ([wdscheurer\@ua.edu](mailto:wdscheurer@ua.edu)) will email you a form to fill out for access 
+
+<!-- -->
+
+-   Coordinate with Nate to get required field equipment purchased (i.e., boots, other field clothing, etc). 
+
+**Send Nate an e-mail with all certificates attached after completing below trainings!!**
+
+## Required Trainings 
+
+**Compliance Trainings** (link will be emailed to you) 
+
+1.  Run Hide Fight: Active Threat
+
+2.  Suicide Prevention: Ask, Listen, ReferUnderstanding Your UA Fiscal Responsibilities
+
+3.  Introduction to Hazard Communication
+
+4.  Child Abuse Awareness, Prevention, and Reporting
+
+5.  FERPA: Confidentiality of Student Records
+
+6.  Protecting Privacy
+
+7.  Equal Opportunity, Sexual Misconduct, and Title IX
+
+8.  Cybersecurity Awareness
+
+9.  Managing Conflicts of Interest Intro
+
+**Lab Truck Trainings** (click the links below) 
+
+1.  [Driver Safety Training](https://ualms.docebosaas.com/learn/course/46645/general-driver-safety-training)
+
+2.  [MVR Release form](https://everest-sf.fa.ua.edu/Runtime/Form/MVRRequestCreate/)
+
+\*Have your license on you as you will need to submit your information
+
+\*\*May need to be connected to internet via ethernet cable for it to work
+
+\*\*\*Access to these and other related forms on the “Risk Management- Driver Safety Page” under “Links” below 
+
+**Other Trainings**(you will be given access in [Blackboard](https://ualearn.blackboard.com/))
+
+1.  Lab Safety
+
+2.  Personal Protective Equipment (PPE) 
+
+3.  A & S Legal Training
+
+    1.  You’ll get an email about this 
+
+    2.  Online or in-person 
+
+## GTA Trainings
+
+-   General GTA Workshop 
+
+-   BSC Lab TA workshop 
+
+-   If needed: [International Teaching Assistant Program (ITAP](http://international.ua.edu/eli/itap/))  for non-native speakers  
+
+## Mandatory Orientations 
+
+-   Biology Department graduate student orientation
+
+    -   held during first BSC 601: Seminar
+
+<!-- -->
+
+-   UA Graduate School Graduate Orientation and Welcome (GROW) 
+
+    -   You’ll get an email with info
+
+<!-- -->
+
+-   If GTA, see GTA Training above
+
+## Useful Info 
+
+### Committee Timeline
+
+**August/September:** Brainstorm potential committee members
+
+**September/October:**  Reach out to potential committee members
+
+-   Do this through a professional email or in person
+
+-   Mention in the email that you are building your committee and offer to meet to discuss your project in-depth
+
+**October/November/December:** Schedule your first committee meeting
+
+-   Send a poll (ex: [When2meet](https://www.when2meet.com/)) to committee members 
+
+-   Email Debbie ([deads\@ua.edu](mailto:deads@ua.edu)) or Josh ([mccra016\@ua.edu](mailto:mccra016@ua.edu)) to reserve a room
+
+-   Send an Outlook Calendar invite to all members once it’s scheduled
+
+-   Email committee members a reminder one week prior to the meeting
+
+**\*\*First Committee Meeting Deadline = Late January, NO EXCEPTIONS**\*\*
+
+**Before December:** If transferring credits from Master’s degree, email [Request for Transfer of Graduate Credit](https://powerforms.docusign.net/3729e12f-8a5f-4d13-b9f9-fb878bccde51?env=na2&acct=046ae80d-7495-4a39-a960-9a4b16ff5c0f&accountId=046ae80d-7495-4a39-a960-9a4b16ff5c0f) form completed to Debbie ([deads\@ua.edu](mailto:deads@ua.edu)) or Josh ([mccra016\@ua.edu](mailto:mccra016@ua.edu))
+
+Submit Committee Appointment Form in Grad School Portal 
+
+-   Email Debbie ([deads\@ua.edu](mailto:deads@ua.edu)) or Josh ([mccra016\@ua.edu](mailto:mccra016@ua.edu))  the CV of any outside UA committee members before completing this step (not needed for outside members that are at the University of Alabama but in a different department). 
+
+-   See guidelines [here](https://slate.ua.edu/portal/ua-grad-student?tab=subtabs) for Thesis (Master’s)/ Dissertation (PhD) committee requirements, as they differ 
+
+**After First Committee Meeting:** Fill out [Graduate Student Annual Evaluation Form ](https://biograd.as.ua.edu/application/)
+
+#### **Tips for your first meeting with your committee members**
+
+-   Start scheduling well in advance of the actual meeting. 
+
+<!-- -->
+
+-   Pass/Fail grading. 
+
+<!-- -->
+
+-   Need to reserve a room. A lot of students use the Aquatic Conference Room in Bevill (sign up outside of door 1094) or the Conference room in the BSC office. If these are not available, you can also reserve a library study room with an HDMI/TV set-up \[[Spaces by Library – The University of Alabama Libraries (ua.edu)](https://www.lib.ua.edu/using-the-library/find-a-place-to-study/)\]. If anything, email Debbie ([deads\@ua.edu](mailto:deads@ua.edu)) or Josh ([mccra016\@ua.edu](mailto:mccra016@ua.edu)) to reserve a room for you :) 
+
+<!-- -->
+
+-   Create a PowerPoint presentation (\~15 mins) highlighting you as a researcher, introducing yourself and the research you’ve done prior to and during your first semester, and a tentative research plan for this year and beyond at AU. Create a slide or two with coursework completed and in progress. 
+
+<!-- -->
+
+-   After your presentation, the committee will ask you to leave for a bit so they can discuss your research and make a decision. When you come back, they’ll let you know if you passed or failed. 
+
+### Grad Coursework and Requirements
+
+Refer to Graduate Student Handbook (given at first seminar) 
+
+-   **M.S Plan I**
+
+    -   **30 total semester hours required (18 must be BSC or MS)**
+
+        -   **24 Semester hours other than BSC 599**
+
+        -   **At least 25 hours must be Graded**
+
+            -   **6 graded hours can be BSC 507**
+
+        -   **\> 13 graded hours from courses**
+
+            -   **Can include BSC 695**
+
+        -   **5 Semester hours can be Pass/Fail**
+
+            -   **(includes seminar courses**
+
+        -   **6 semester hours BSC 599 required**
+
+        -   **Coursework checklist: <https://bsc.ua.edu/wp-content/uploads/2014/04/Plan-I-Masters-Course-Checklist.pdf>**
+
+-   **M.S Plan II**
+
+    -   **30 total semester hours required (18 must be BSC or MS)**
+
+        -   **25 Semester hours other than BSC 598**
+
+        -   **At least 25 hours must be Graded**
+
+            -   **6 graded hours can be BSC 507**
+
+        -   **\> 19 graded hours from courses**
+
+            -   **Can include BSC 695**
+
+        -   **5 Semester hours can be Pass/Fail**
+
+            -   **(includes seminar courses)**
+
+        -   **5 semester hours BSC 598 required**
+
+        -   **Coursework checklist: <https://bsc.ua.edu/wp-content/uploads/2014/04/Plan-II-Masters-Course-Checklist.pdf>**
+
+<!-- -->
+
+-   **PhD Plan**
+
+    -   **BSC 699 (Dissertation Research)**
+
+    -   **At least 30 graded semester hours (not pass/fail) which include**
+
+        -   **Up to 3 graded hours of BSC 507**
+
+        -   **Up to 3 graded hours of BSC 607**
+
+        -   **Letter graded courses including BSC 695 (Special topics)**
+
+    -   **Up to 6 hours of Pass/Fail credit can be applied**
+
+        -   **Can include BSC 698 (Non-Dissertation)**
+
+        -   **4 semester hours of BSC 601 (continuous enrollment)**
+
+    -   **Of the 36 semester hours (besides BSC 699) 24 must have BSC**
+
+## Important Links to Bookmark
+
+1.  <div>
+
+    ### [myBama](https://mybama.ua.edu/)
+
+    </div>
+
+2.  <div>
+
+    ### [Blackboard](https://ualearn.blackboard.com/)
+
+    </div>
+
+3.  <div>
+
+    ### [Grad Student Portal](https://slate.ua.edu/portal/ua-grad-student?tab=home)
+
+    </div>
+
+    This includes important information and forms like: (i) Forming a committee, (ii) information on funding, (iii) forms and resources.
+     
+
+```{=html}
+<!-- -->
+```
+4.  <div>
+
+    ### [Driver Safety Page-- Risk Management](https://riskmanagement.ua.edu/driver-management/)
+
+    </div>
+
+5.  <div>
+
+    ### [Resources for Current Graduate Students](https://bsc.ua.edu/graduate/forms-for-graduate-students/) \*\*Many useful resources, see below\*\* 
+
+    </div>
+
+## Biological Sciences Department Information
+
+### **Main Office**
+
+\(205\) 348-1807 
+
+1325 Science and Engineering Complex (SEC), 300 Hackberry Lane ([Driving Directions](https://bsc.ua.edu/about-us/contact-us/biological-sciences-buildings/driving-directions/))
+
+[bscacademics\@ua.edu](mailto:bscacademics@ua.edu)
+
+Main Office contacts: 
+
+Debbie Eads (deads\@ua.edu)
+
+Josh McCracken (mccra016\@ua.edu)
+
+Main Office Mailing Address\
+Box 870344\
+The University of Alabama\
+Tuscaloosa, AL 35487-0344
+
+### **Tanglewood Biological Station**
+
+496 Tanglewood Road
+
+Akron, AL 35441
+
+<https://tanglewood.ua.edu/>
+
+Tanglewood maintenance supervisor: 
+
+Warren Walton (jwwalton1\@ua.edu)
+
+### **Arboretum**
+
+4801 Arboretum Way
+
+Tuscaloosa, AL 35404
+
+\(205\) 553-3278
+
+<https://arboretum.ua.edu/>
+
+### **Biology Grad Student Association (BGSA)**
+
+<https://bsc.ua.edu/graduate/graduate-student-association/>
+
+### **Resources for Grad Students by Grad Students**
+
+<https://alabama.app.box.com/s/r85j347srakqis6fdky5o15az262jak2>
+
+## UA Resources
+
+[Academic Calendar](https://registrar.ua.edu/academiccalendar/)
+
+[Simple Syllabus](https://ua.simplesyllabus.com/)
+
+[IT: Software Catalog](https://oit.ua.edu/software/)
+
+[Emergency Management](https://ready.ua.edu/)
+
+[Tornado Shelter locations](https://ready.ua.edu/shelters/)
+
+[Campus Map](https://www.ua.edu/map/)
+
+[Crimson Ride Bus Map](https://ua.passiogo.com/)

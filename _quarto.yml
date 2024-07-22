@@ -18,7 +18,10 @@ website:
           - guidelines.qmd
           - authorship.qmd
           - field_equipment.qmd
-      
+      - section: "Resources"
+        contents:
+          - new_student_resources.qmd
+
 format:
   html:
     theme: cosmo
