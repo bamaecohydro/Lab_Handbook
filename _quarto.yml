@@ -17,14 +17,8 @@ website:
         contents:
           - guidelines.qmd
           - authorship.qmd
-      - section: "Lab Resources"
-        contents:
-          - cyber.qmd
           - field_equipment.qmd
-          - lab_equipment.qmd
-      - semester_admin_jobs.qmd
       
-
 format:
   html:
     theme: cosmo
