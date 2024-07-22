@@ -352,9 +352,8 @@ Refer to Graduate Student Handbook (given at first seminar) 
     This includes important information and forms like: (i) Forming a committee, (ii) information on funding, (iii) forms and resources.
      
 
-```{=html}
 <!-- -->
-```
+
 4.  <div>
 
     ### [Driver Safety Page-- Risk Management](https://riskmanagement.ua.edu/driver-management/)
