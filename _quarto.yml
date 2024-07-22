@@ -12,9 +12,12 @@ website:
       - section: "Team Overview"
         contents:
           - values.qmd
-          - guidelines.qmd
           - team_contacts.qmd
-      - section: "Shared Resources"
+      - section: "Team Guidelines"
+        contents:
+          - guidelines.qmd
+          - authorship.qmd
+      - section: "Lab Resources"
         contents:
           - cyber.qmd
           - field_equipment.qmd

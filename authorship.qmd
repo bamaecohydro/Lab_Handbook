@@ -1,0 +1,66 @@
+---
+title: "Authorship Guidelines"
+---
+
+**‘Bama Ecohydro Authorship Guidelines** 
+
+Determining authorship on peer review papers is challenging.
+Standard practices across disciplines, research groups, and even individual projects often differ wildly.
+However, because it is the measuring stick our community uses for jobs, promotions, and tenure; it's important. 
+
+The goal of this document is an attempt to provide some guidance within our lab group:
+
+1.  **We view authorship as a responsibility**.
+    If you’re a co-author on a paper, you are responsible for the integrity of the data, the quality of the analysis, and the contents of the arguments. 
+
+```{=html}
+<!-- -->
+```
+2.  **Communicate early and often about authorship**.
+    Conversations about authorship can be awkward.
+    However, it's better to have a difficult conversation early than hurt relationships and careers on down the road. 
+
+```{=html}
+<!-- -->
+```
+3.  **We will be inclusive**.
+    When in doubt, be inclusive in your authorship team. 
+
+```{=html}
+<!-- -->
+```
+4.  **We do not participate in “gift” authorship or other malicious behavior**.
+    Co-authors must earn their authorship.
+
+```{=html}
+<!-- -->
+```
+5.  **We will publish in a timely manner**.
+    In general, team members will have 1-year to move their manuscripts forward.
+    If reasonable progress has not been made after 1-year, then the lead author role may be reassigned.
+
+```{=html}
+<!-- -->
+```
+6.  **In general** -- folks should do 2 of the following 4 items to be considered for authorship: 
+
+-   Provide funding for the research and/or personnel time
+
+-   Collect the data
+
+-   Analyze the data
+
+-   Help write the manuscript\*\*\*
+
+*Note, there is almost never a case where folks should be considered co-authors if they do not contribute to the writing of a manuscript.* 
+
+7.  **The lead authors responsibilities include**: (i) identifying potential authorship team, (ii) ensuring that team has reasonable opportunity to contribute, (iii) working with the senior author to organize the division of labor, and (iv) lead paper communications through draft, revisions, and publishing phases. 
+
+```{=html}
+<!-- -->
+```
+8.  **The role of the senior author includes:** (i) assisting the lead author navigate their role, (ii) finding/negotiating funding for the publishing fees, and (iii) helping mitigate, and when necessary, resolve conflict. 
+
+9.  **Determining authorship order will vary by team**.
+    For student/postdoc papers, *generally* the student/postdoc will be first author, lab-PI will be second author, and grant PI will be the last author.
+    After that, authorship should be established by effort (i.e., how much effort did individuals put towards the OR academic rank (i.e, student, postdoc, junior scientist, senior scientist).
