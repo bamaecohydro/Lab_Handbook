@@ -6,7 +6,7 @@ title: "Shared Field Equipment"
 
 1.  lab truck
 
-2.  Jones laptop (potentially getting a new one) \-- HOBO software, exo software, weather station software, etc.
+2.  Jones laptop (potentially getting a new one) -- HOBO software, exo software, weather station software, etc.
 
 3.  multi-parameter YSI
 
@@ -45,7 +45,7 @@ title: "Shared Field Equipment"
     -   Please Initial and write project/site abbreviation (i.e., AIMS, TW, TAL, DOE, etc.)
 
 -   Like the lab truck, if you run into conflict of another person needing the laptop the same day, please communicate and determine a path forward for resolving who uses laptop where/when.
-    (please help me reword here\...)
+    (please help me reword here...)
 
 **4.0 Post field work**
 
@@ -57,7 +57,7 @@ title: "Shared Field Equipment"
 
     -   While we aren't fleet vehicle services and no one is yelling at you to the clean the vehicle you checked out or else, it is extremely appreciated to have a 'clean' lab truck for the next person.
 
--   Place all field equipment \-- well tape, pump, and YSI \-- on the counter space denoted as 'Field Space'.
+-   Place all field equipment -- well tape, pump, and YSI -- on the counter space denoted as 'Field Space'.
 
     -   Check to see if YSI needs charged and if so, please charge it for the next user
 
