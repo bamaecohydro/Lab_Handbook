@@ -4,4 +4,4 @@ title: "Ecohydrology Lab Handbook"
 
 ![](images/logo_orig.jpg){fig-alt="Bama Ecohydro Lab Logo" fig-align="center"}
 
-*Warning: This Lab Handbook is a work-in-progress and likely incomplete. We hope to complete a first draft of this handbook by the end of Fall 2023.*
+*Warning: This Lab Handbook is a work-in-progress and likely incomplete.*
