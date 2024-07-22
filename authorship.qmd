@@ -42,17 +42,9 @@ The goal of this document is an attempt to provide some guidance within our lab 
 ```{=html}
 <!-- -->
 ```
-6.  **In general** -- folks should do 2 of the following 4 items to be considered for authorship: 
+6.  **In general** -- folks should do 2 of the following 4 items to be considered for authorship: (i) Provide funding for the research and/or personnel time, (ii) collect the data, (iii) analyze the data, or (iv) help write the manuscript.
 
--   Provide funding for the research and/or personnel time
-
--   Collect the data
-
--   Analyze the data
-
--   Help write the manuscript\*\*\*
-
-*Note, there is almost never a case where folks should be considered co-authors if they do not contribute to the writing of a manuscript.* 
+    *Note, there is almost never a case where folks should be considered co-authors if they do not contribute to the writing of a manuscript.* 
 
 7.  **The lead authors responsibilities include**: (i) identifying potential authorship team, (ii) ensuring that team has reasonable opportunity to contribute, (iii) working with the senior author to organize the division of labor, and (iv) lead paper communications through draft, revisions, and publishing phases. 
 
